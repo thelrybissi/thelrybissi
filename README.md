@@ -3,12 +3,11 @@
 ### This github contains some personal projects that have already been developed and others that are constantly evolving.
 ### Passionate about the IT area and constant search to expand my knowledge. Graduated in Computer Science (UFU), and currently studying Business Management and Innovation (FATEC - RP).
 
-#### I work at Bytebio as a fullstack developer!
+#### I work at SicoobCocred as a fullstack developer!
 #### Technologies I've worked with:  
-  * **Frontend**: Bootstrap, CSS3, HTML5, ReactJS, Angular, 
-  * **Backend**: PHP, NodeJS and Java
+  * **Frontend**: Bootstrap, CSS3, HTML5, Angular, 
+  * **Backend**: Java, C#, NodeJS
   * **DB's**: Relational DB(MySQL and Postgres), Non-relational DB(Mongo).
-  * **FullMVC**: WordPress
 
 <!--
 **thelrybissi/thelrybissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
