@@ -4,7 +4,7 @@
 #### I work at SicoobCocred as a backend developer!
 #### Technologies I've worked with:  
   * **Frontend**: Bootstrap, CSS3, HTML5, Angular
-  * **Backend**: Java, C#
+  * **Backend**: Java(Spring), C#(.Net Framework and .Net Core 6)
   * **Concepts**: SOLID, Clean Architeture, DDD and Agile Culture
   * **Technologies**: Azure DevOps, SonarQube and Git
   * **DB's**: Relational DB(MySQL, Postgres, SQL Server), Non-relational DB(Mongo).
