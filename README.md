@@ -5,7 +5,7 @@
 #### Technologies I've worked with:  
   * **Frontend**: Bootstrap, CSS3, HTML5, Angular
   * **Backend**: Java(Spring), C#(.Net Framework and .Net Core 6)
-  * **Concepts**: SOLID, Clean Architeture, DDD and Agile Culture
+  * **Concepts**: SOLID, Clean Architeture, DDD and Agile Culture(Scrum)
   * **Technologies**: Azure DevOps, SonarQube and Git
   * **DB's**: Relational DB(MySQL, Postgres, SQL Server), Non-relational DB(Mongo).
 
