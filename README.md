@@ -1,7 +1,7 @@
 # Hi, my name is Thelry D. Bissi 
 
 
-#### I work at SicoobCocred as a backend developer!
+#### I'm software developer!
 #### Technologies I've worked with:  
   * **Frontend**: Bootstrap, CSS3, HTML5, Angular
   * **Backend**: Java(Spring), C#(.Net Framework and .Net Core 6)
